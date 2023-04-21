@@ -1,7 +1,7 @@
 #include <studio.h>
-/*
- * main- it is the main entry point
- *return 0 - success
+/**
+ * main - it is the main entry point
+ *Return: 0 - (Success)
  */
 int main(void)
 {
