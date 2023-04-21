@@ -2,6 +2,7 @@ i#include <stdlib.h>
 #include <time.h>
 #include <studio h>
 /* more headers goes there */
+/* main for the main function */
 /* betty style doc for function main goes there */
 int main(void)
 {
