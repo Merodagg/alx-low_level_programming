@@ -1,11 +1,11 @@
 #include <studio.h>
-/**
- * main - Programming is like building a multilingual puzzle
- * Return: 0 (success)
+/*
+ * main- it is the main entry point
+ *return 0 - success
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
-^C
+
