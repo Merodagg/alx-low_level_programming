@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * Add - add two numbers
+  * add - add two numbers
   * @n1: the first number
   * @n2: the second number
   * Return: integer value
