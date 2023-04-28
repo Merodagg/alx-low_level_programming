@@ -1,5 +1,3 @@
-100-prime_factor.c
-
 #include <stdio.h>
 #include <math.h>
 
